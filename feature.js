@@ -1,10 +1,14 @@
 console.log("asdasds");
 
 function get(value){
-<<<<<<< HEAD
-   
-    return valu; 
-=======
-    return value;
->>>>>>> feature-c
+    console.log(value);
+    
+    
+    
+    
+    
+    
+    
+    
+    return valu;
 }
