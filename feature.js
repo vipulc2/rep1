@@ -1,3 +1,5 @@
 console.log("asdasds");
 
-asdasd
+function get(value){
+    return value;
+}
